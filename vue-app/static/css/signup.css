@@ -14,7 +14,7 @@ h3 {
   margin: 0 auto;
 }
 
-#signup {
+/* #signup {
   padding: 0px 25px 25px;
   background: #fff;
   box-shadow: 0px 0px 0px 5px rgba( 255, 255, 255, 0.4), 0px 4px 20px rgba( 0, 0, 0, 0.33);
@@ -149,7 +149,7 @@ input[type=password]:focus {
 #signup .inputs #submit:hover {
   background: -moz-linear-gradient( top, #a4b0cb 0%, #b9c5dd);
   background: -webkit-gradient( linear, left top, left bottom, from(#a4b0cb), to(#b9c5dd));
-}
+} */
 
 /* footer */
 

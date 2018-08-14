@@ -5,6 +5,7 @@ import Signup from '@/components/Signup'
 import Profile from '@/components/Profile'
 import Login from '@/components/Login'
 import Upload from '@/components/Upload'
+import UpdateUser from '@/components/UpdateUser'
 
 Vue.use(Router)
 
@@ -34,6 +35,12 @@ export default new Router({
       path: '/upload',
       name: 'Upload',
       component: Upload
+    },
+    {
+      path: '/profile/update',
+      name: 'UpdateUser',
+      component: UpdateUser
     }
+
   ]
 })

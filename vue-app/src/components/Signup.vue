@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <form id="signup" @submit.prevent="createUser">
+    <form class="userDataForm" id="signup" @submit.prevent="createUser">
       <div class="header">
         <h3>Sign Up</h3>
         <p>Join and get ready to spend your time not thinking about transcripts. Go on vacation or something</p>
